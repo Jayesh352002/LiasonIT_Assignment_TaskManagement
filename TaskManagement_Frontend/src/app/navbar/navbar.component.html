@@ -1,0 +1,11 @@
+<nav *ngIf="nav.visible" class="navbar navbar-light bg-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" style="color: white;">Smart Task Management</a>
+    <form class="d-flex">
+      <button class="btn btn-outline-success" type="submit" style="margin-left: 10px; color: white;" (click)="goLogin()">Login</button>
+      <button class="btn btn-outline-success" type="submit" style="margin-left: 50px; ">
+        <a routerLink="register" style="text-decoration: none; color: white;">Register</a></button>
+    </form>
+  </div>
+</nav>
+<router-outlet></router-outlet>
