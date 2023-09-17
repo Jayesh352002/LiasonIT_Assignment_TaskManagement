@@ -31,20 +31,20 @@ Designed Task Management Web Application in Angular. Worked with Angular, Bootst
 
 # Screenshots 
 
-1. Homepage
+1. Homepage<br>
 ![Homepage](https://github.com/Jayesh352002/LiasonIT_Assignment_TaskManagement/blob/main/Photos/homepage.PNG)
 
-2. Register
+2. Register<br>
 ![Register](https://github.com/Jayesh352002/LiasonIT_Assignment_TaskManagement/blob/main/Photos/register.PNG)
 
-3. Login
+3. Login<br>
 ![Login](https://github.com/Jayesh352002/LiasonIT_Assignment_TaskManagement/blob/main/Photos/login.PNG)
 
-4. All Tasks
+4. All Tasks<br>
 ![All Task](https://github.com/Jayesh352002/LiasonIT_Assignment_TaskManagement/blob/main/Photos/alltasks.PNG)
 
-5. Add Tasks
+5. Add Tasks<br>
 ![Add Tasks](https://github.com/Jayesh352002/LiasonIT_Assignment_TaskManagement/blob/main/Photos/addtask.PNG)
 
-6. Update Tasks
+6. Update Tasks<br>
 ![Update Task](https://github.com/Jayesh352002/LiasonIT_Assignment_TaskManagement/blob/main/Photos/updatetask.PNG)
